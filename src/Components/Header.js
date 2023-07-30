@@ -6,7 +6,7 @@ const Header = () => {
    
       <nav className="navbar navbar-expand-lg py-4">
         <div className="container-fluid">
-          <a className="navbar-brand fs-2 mx-auto fw-bold" href="/Schedule">
+          <a className="navbar-brand fs-2 mx-auto fw-bold" href="#">
             World Cup 2023
           </a>
           <button
