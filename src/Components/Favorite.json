@@ -1,0 +1,266 @@
+
+[
+    {
+        "player_name" :"Virat Kohli",
+        "image":"https://bcciplayerimages.s3.ap-south-1.amazonaws.com/playerheadshot/bcci/1000x1280/164.png",
+        "batting":"Right-Handed",
+        "Bowling_Style":"Right-Arm Medium",
+        "born":"Nov 05 1988",
+        "Role":"Batter"
+    },
+    {
+        "player_name":"Rohit Sharma",
+        "image":"https://bcciplayerimages.s3.ap-south-1.amazonaws.com/playerheadshot/bcci/1000x1280/107.png",
+        "born":"Apr 30, 1987",
+        "batting":"Right-Handed",
+       "Bowling_Style":"Right-Arm-Offbreak ",
+       "Role":"Batter"
+    },
+    {
+        "player_name":"Jasprit Bumrah",
+        "image":"https://bcciplayerimages.s3.ap-south-1.amazonaws.com/playerheadshot/bcci/1000x1280/1124.png",
+        "born":"Dec 06, 1993",
+        "batting":"Right-Handed",
+        "Bowling_Style":"Right-Arm Fast",
+        "Role":"Bowler"
+         
+    },
+    {
+        "player_name":"Ravindra Jadejs",
+        "image":"https://bcciplayerimages.s3.ap-south-1.amazonaws.com/playerheadshot/bcci/1000x1280/9.png",
+        "born":"Dec 06, 1988",
+        "batting":"Left-Hand Bat",
+        "Bowling_Style":"Slow Left-Arm Orthodox",
+        "Role":"All-Rounder"
+          
+    },
+    {
+        "player_name":"Hardik Pandya",
+        "image":"https://bcciplayerimages.s3.ap-south-1.amazonaws.com/playerheadshot/bcci/1000x1280/2740.png",
+        "born":"Oct 11,1993",
+        "batting":"Right-Hand Bat",
+        "Bowling_Style":"Right-Arm Medium Fast",
+        "Role":"All-Rounder"
+          
+    },
+    {
+        "player_name":"Ravichandran Ashwin",
+        "image":"https://bcciplayerimages.s3.ap-south-1.amazonaws.com/playerheadshot/bcci/1000x1280/8.png",
+        "born":"Sep 17,1986",
+        "batting":"Right-Hand Bat",
+        "Bowling_Style":"Right-Arm Offspin",
+        "Role":"Bowler"
+          
+    },
+    {
+        "player_name":"Mohammad Shami",
+        "image":"https://bcciplayerimages.s3.ap-south-1.amazonaws.com/playerheadshot/bcci/1000x1280/94.png",
+        "born":"Sep 03,1990",
+        "batting":"Right-Hand Bat",
+        "Bowling_Style":"Right-Arm Fast-Medium",
+        "Role":"Bowler"
+          
+    },
+    {
+        "player_name":"Rishabh pant",
+        "image":"https://bcciplayerimages.s3.ap-south-1.amazonaws.com/playerheadshot/bcci/1000x1280/2972.png",
+        "born":"Oct 04,, 1997",
+        "batting":"Left-Hand Bat",
+        "Bowling_Style":"____________",
+        "Role" :" Wicket-Keeper Batsman"
+          
+    },
+    {
+        "player_name":"Axar patel",
+        "image":"https://bcciplayerimages.s3.ap-south-1.amazonaws.com/playerheadshot/bcci/1000x1280/1113.png",
+        "born":"Jan 20,1994",
+        "batting":"Left-Hand Bat",
+        "Bowling_Style":"Left-Arm Orthodox spin",
+        "Role":"Bowling All-Rounder"
+          
+    },
+    {
+        "player_name":"Cheteswar Pujara",
+        "image":"https://bcciplayerimages.s3.ap-south-1.amazonaws.com/playerheadshot/bcci/1000x1280/156.png",
+        "born":"Jan 25, 1988",
+        "batting":"Right-Hand Bat",
+        "Bowling_Style":"Right-Arm Leg-spin",
+        "Role":"Batter"
+          
+    },
+    {
+        "player_name":"Shreyas iyer",
+        "image":"https://bcciplayerimages.s3.ap-south-1.amazonaws.com/playerheadshot/bcci/1000x1280/1563.png",
+        "born":"Dec 06, 1994",
+        "batting":"Right-Hand Bat",
+        "Bowling_Style":"Right-Arm Leg-spin",
+        "Role":"Batter"
+          
+    },
+    {
+        "player_name":"Mohammad Siraj",
+        "image":"https://bcciplayerimages.s3.ap-south-1.amazonaws.com/playerheadshot/bcci/1000x1280/3840.png",
+        "born":"Mar 13, 1994",
+        "batting":"Right-Hand Bat",
+        "Bowling_Style":"Right-Arm Medium Fast",
+        "Role":"Bowler"
+          
+    },
+    {
+        "player_name":"KL Rahul",
+        "image":"https://bcciplayerimages.s3.ap-south-1.amazonaws.com/playerheadshot/bcci/1000x1280/1125.png",
+        "born":"Apr 18, 1992",
+        "batting":"Right-Hand Bat",
+        "Bowling_Style":"____________",
+        "Role":"Batter"
+          
+    },
+    {
+        "player_name":"Shubman Gill",
+        "image":"https://bcciplayerimages.s3.ap-south-1.amazonaws.com/playerheadshot/bcci/1000x1280/3761.png",
+        "born":"Sep 08, 1999",
+        "batting":"Right-Hand Bat",
+        "Bowling_Style":"Right-Arm Offspin",
+        "Role":"Batter"
+          
+    },
+    {
+        "player_name":"Umesh Yadav",
+        "image":"https://bcciplayerimages.s3.ap-south-1.amazonaws.com/playerheadshot/bcci/1000x1280/59.png",
+        "born":"Oct 25,1987",
+        "batting":"Right-Hand Bat",
+        "Bowling_Style":"Right-Arm Fast",
+        "Role":"Bowler"
+          
+    },
+    {
+        "player_name":"Shikhar Dhawan",
+        "image":"https://bcciplayerimages.s3.ap-south-1.amazonaws.com/playerheadshot/bcci/1000x1280/41.png",
+        "born":"Dec 05, 1985",
+        "batting":"Left-Hand Bat",
+        "Bowling_Style":"____________",
+        "Role":"Batter"
+          
+    },
+    {
+        "player_name":"Kuldeep Yadav",
+        "image":"https://bcciplayerimages.s3.ap-south-1.amazonaws.com/playerheadshot/bcci/1000x1280/261.png",
+        "born":"Dec 14,1991",
+        "batting":"Left-Hand Bat",
+        "Bowling_Style":"Left-Arm Wrist-spin",
+        "Role":"Bowler"
+          
+    }, {
+        "player_name":"Matthew James Henry",
+        "image":"https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321200/321247.png",
+        "born":"December 14, 1991",
+        "batting":"Right-Hand Bat",
+        "Bowling_Style":"Right arm Fast medium",
+        "Role":"Bowler"  
+    }
+    , {
+        "player_name":"James Douglas Sheahan Neesham",
+        "image":"https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319700/319781.png",
+        "born":"September 17, 1990",
+        "batting":"September 17, 1990",
+        "Bowling_Style":"Right arm Medium fast",
+        "Role":"Batting Allrounder"  
+    },
+    {
+        "player_name":"Quinton de Kock",
+        "image":"https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316600/316668.png",
+        "born":"December 17, 1992",
+        "batting":"Left hand Bat",
+        "Bowling_Style":"____________",
+        "Role":"Wicketkeeper"  
+    },
+     {
+        "player_name":"David Andrew Miller",
+        "image":"https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316600/316655.png",
+        "born":"June 10, 1989",
+        "batting":"Left hand Bat",
+        "Bowling_Style":"Right arm Offbreak",
+        "Role":"Middle order Batter"  
+    },
+     {
+        "player_name":"Kagiso Rabada",
+        "image":"https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/320300/320376.png",
+        "born":"May 25, 1995",
+        "batting":"Left hand Bat",
+        "Bowling_Style":"Right arm Fast",
+        "Role":"Bowler"  
+    },
+    {
+        "player_name":"Shardul Thakur",
+        "image":"https://bcciplayerimages.s3.ap-south-1.amazonaws.com/playerheadshot/bcci/1000x1280/1745.png",
+        "born":"Dec 14,1991",
+        "batting":"Right-Hand Bat",
+        "Bowling_Style":"Right-Arm Medium Pace",
+        "Role":"Bowler"
+          
+    },
+    {
+        "player_name":"Dinesh Karthik",
+        "image":"https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319900/319934.png",
+        "born":"June 01, 1985",
+        "batting":"Right-Hand Bat",
+        "Bowling_Style":"Right arm Offbreak",
+        "Role":"Wicketkeeper Batterr"
+          
+    },
+    {
+        "player_name":"Ishan Kishan",
+        "image":"https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/331100/331165.png",
+        "born":"Ishan Kishan",
+        "batting":"Left-Hand Bat",
+        "Bowling_Style":"____________",
+        "Role":"Wicketkeeper Batter"
+          
+    },
+    {
+        "player_name":"Scott Boland",
+        "image":"https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321500/321592.png",
+        "born":"April 11, 1989",
+        "batting":"Right-Hand Bat",
+        "Bowling_Style":"Right arm Fast medium",
+        "Role":"Bowler"
+          
+    },
+    {
+        "player_name":"Aaron Finch",
+        "image":"https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316500/316533.png",
+        "born":"November 17, 1986",
+        "batting":"Right-Hand Bat",
+        "Bowling_Style":"Slow Left arm Orthodox",
+        "Role":" Batter"
+          
+    },
+    {
+        "player_name":"Glenn Maxwell",
+        "image":"https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316600/316657.png",
+        "born":"October 14, 1988",
+        "batting":"Right-Hand Bat",
+        "Bowling_Style":"Right arm Offbreak",
+        "Role":"Batting Allrounder"
+          
+    },
+    {
+        "player_name":"Trent Alexander Boult",
+        "image":"https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316600/316619.png",
+        "born":"July 22, 1989",
+        "batting":"Right-Hand Bat",
+        "Bowling_Style":"Left arm Fast medium",
+        "Role":"Bowler"
+          
+    }
+    , {
+        "player_name":"Martin James Guptill",
+        "image":"https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316500/316591.png",
+        "born":"September 30, 1986",
+        "batting":"Right-Hand Bat",
+        "Bowling_Style":"Right arm Offbreak",
+        "Role":"Batter"  
+    }
+    
+
+]

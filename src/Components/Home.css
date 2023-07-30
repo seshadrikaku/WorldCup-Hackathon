@@ -1,0 +1,16 @@
+#count {
+    display: flex;
+    height: 150vh;
+    justify-content: center;
+    align-items: center;
+    background-color: burlywood;
+}
+
+.time-schedule{
+    background-color: burlywood; 
+}
+
+.navbar{
+    background-color: rgb(191, 134, 177);
+    color: black;
+}
